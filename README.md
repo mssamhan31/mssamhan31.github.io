@@ -61,9 +61,9 @@ docs/               plan and review notes
 
 ## Deployment
 
-Not yet live. When Samhan approves the local build, the repository is pushed to GitHub as
-`mssamhan31.github.io` and `.github/workflows/deploy.yml` builds and publishes it to GitHub Pages
-on every push to `main`.
+Live at https://mssamhan31.github.io/ since 27 October 2026. `.github/workflows/deploy.yml`
+builds and publishes the site to GitHub Pages on every push to `main`; the Pages source is set to
+GitHub Actions.
 
 ## Licence
 
