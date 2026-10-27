@@ -1,0 +1,11 @@
+{# Pet-project cards, inserted into About where the Markdown says <!-- projects -->. #}
+<div class="cards projects">
+  {% for project in projects %}
+  <a class="card" href="{{ project.link }}">
+    {% if project.image %}<img src="{{ project.image }}" alt="{{ project.title }}">{% endif %}
+    <h3>{{ project.title }}</h3>
+    <p>{{ project.summary }}</p>
+    <span class="arrow">{{ project.link_label or "See more" }} →</span>
+  </a>
+  {% endfor %}
+</div>

@@ -1,0 +1,17 @@
+# Pet-project cards on the About page. Fun, self-initiated work only; employer work stays in the CV.
+- title: Family garden solar install
+  summary: I designed and installed a small PV system for the family garden in 2018 and wrote it up; the post drew more than a hundred reader comments.
+  link: /notes/pengalaman-memasang-panel-surya/
+  link_label: Read the post (Indonesian)
+- title: Drone build
+  summary: I built a quadcopter from parts in 2017 and wrote up the build, the components and the tuning.
+  link: /notes/pengalaman-merakit-drone/
+  link_label: Read the post (Indonesian)
+- title: Solarin
+  summary: An Instagram account I started in 2022 to teach solar energy in Indonesian, now followed by about eight thousand people.
+  link: https://www.instagram.com/solarin.id/
+  link_label: Visit Solarin
+- title: Ucapin
+  summary: A browser tool that turns a contact list into personalised Eid greetings in bulk, exporting images, messages and a manifest, all processed on your own device.
+  link: https://mssamhan31.github.io/ucapin/
+  link_label: Try Ucapin

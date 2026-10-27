@@ -1,0 +1,154 @@
+{% extends "longform.html" %}
+{% import "partials/cv.html" as cv %}
+{% set kicker = "Full profile" %}
+{% set toc = [
+  {"id": "education", "title": "Education"},
+  {"id": "experience", "title": "Experience"},
+  {"id": "certifications", "title": "Certifications"},
+  {"id": "awards", "title": "Awards"},
+  {"id": "publications", "title": "Publications"},
+  {"id": "conferences", "title": "Conferences"},
+  {"id": "talks", "title": "Speaking and media"},
+  {"id": "volunteering", "title": "Volunteering"},
+  {"id": "organisations", "title": "Organisations"},
+  {"id": "languages", "title": "Languages"},
+] %}
+{% block sidebar %}
+<div class="view-switch" role="group" aria-label="Level of detail">
+  {% for view in site.cv_views %}
+  <button type="button" data-view="{{ view.key }}"{% if loop.first %} class="is-active"{% endif %}>{{ view.label }}</button>
+  {% endfor %}
+</div>
+{% endblock %}
+{% block content %}
+<div class="cv" data-view="{{ site.cv_views[0].key }}">
+
+<div class="counts">
+  <div><span class="value">{{ counts.outputs }}</span><span class="label">talks, presentations and publications</span></div>
+  <div><span class="value">{{ counts.certifications }}</span><span class="label">certifications</span></div>
+  <div><span class="value">{{ counts.awards }}</span><span class="label">awards and scholarships</span></div>
+</div>
+
+<section class="cv-section hide-when-empty" id="education">
+  <h2>Education</h2>
+  {% for e in education.formal %}
+  {{ cv.entry(e.start|date_range(e.end), e.degree, e.institution, e.city, None, join_present(e.major, e.grade, sep=" · "), e.highlight|lines, e.show) }}
+  {% endfor %}
+  <div class="cv-group hide-when-empty">
+    <h3 class="sub">Exchanges, internships and short courses</h3>
+    <ul class="compact">
+      {% for e in education.short %}
+      {{ cv.row(e.start|date_range(e.end), e.degree, e.institution, e.city, e.highlight, None, None, e.show) }}
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="cv-section hide-when-empty" id="experience">
+  <h2>Professional experience</h2>
+  {% for x in experience %}
+  {{ cv.entry(x.start|date_range(x.end), x.role, x.company, x.city, x.employment, x.company_description, x.bullets, x.show) }}
+  {% endfor %}
+</section>
+
+<section class="cv-section hide-when-empty" id="certifications">
+  <h2>Professional certifications</h2>
+  {% for group in certifications %}
+  <div class="cv-group hide-when-empty">
+    <h3 class="sub">{{ group.name }}</h3>
+    <ul class="compact">
+      {% for c in group["items"] %}
+      {{ cv.row(c.year, c.name, c.institution, None, None, None, None, c.show) }}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="cv-section hide-when-empty" id="awards">
+  <h2>Awards and scholarships</h2>
+  <ul class="compact">
+    {% for a in awards %}
+    {{ cv.row(a.year, a.award, a.awarding_body, None, None, None, None, a.show) }}
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cv-section hide-when-empty" id="publications">
+  <h2>Publications</h2>
+  {% for label, key in [("Journal articles", "journal"), ("Conference papers", "conference"), ("Popular writing", "popular")] %}
+  {% if publications[key] %}
+  <div class="cv-group hide-when-empty">
+    <h3 class="sub">{{ label }}</h3>
+    <ul class="compact">
+      {% for p in publications[key] %}
+      <li data-show="{{ p.show }}">
+        <span class="when">{{ p.year }}</span>
+        <span>{{ p.authors|bold_name }}. {% if p.link %}<a href="{{ p.link }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}. <span class="detail">{{ p.publisher }}</span></span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  {% endfor %}
+</section>
+
+<section class="cv-section hide-when-empty" id="conferences">
+  <h2>Conference presentations</h2>
+  <ul class="compact">
+    {% for c in conferences %}
+    <li data-show="{{ c.show }}">
+      <span class="when">{{ c.start|month_year }}</span>
+      <span>
+        {% if c.link %}<a href="{{ c.link }}">{{ c.conference }}</a>{% else %}{{ c.conference }}{% endif %}, {{ c.city }}{% if c.country and c.country != "Australia" %}, {{ c.country }}{% endif %}
+        {% if c.title %}<span class="detail">{{ c.title }}</span>{% endif %}
+        {% if c.highlight %}<span class="detail">{{ c.highlight }}</span>{% endif %}
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cv-section hide-when-empty" id="talks">
+  <h2>Speaking and media</h2>
+  <ul class="compact">
+    {% for t in talks %}
+    <li data-show="{{ t.show }}">
+      <span class="when">{{ t.date|month_year }}</span>
+      <span>
+        {% if t.link %}<a href="{{ t.link }}">{{ t.event }}</a>{% else %}{{ t.event }}{% endif %}{% if t.role %}<span class="pill">{{ t.role }}</span>{% endif %}
+        <span class="detail">{{ t.organiser|linked }}{% if t.highlight %} · {{ t.highlight }}{% endif %}</span>
+      </span>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cv-section hide-when-empty" id="volunteering">
+  <h2>Volunteering</h2>
+  <ul class="compact">
+    {% for v in volunteering %}
+    {{ cv.row(v.start|year_range(v.end), v.role, v.organisation, None, v.description, None, None, v.show) }}
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cv-section hide-when-empty" id="organisations">
+  <h2>Professional organisations</h2>
+  <ul class="compact">
+    {% for o in organisations %}
+    {{ cv.row(o.start|date_range(o.end), o.organisation, None, None, o.role, None, None, o.show) }}
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="cv-section hide-when-empty" id="languages">
+  <h2>Languages</h2>
+  <ul class="compact">
+    {% for l in languages %}
+    {{ cv.row(l.language, l.proficiency, None, None, l.credential, None, None, l.show) }}
+    {% endfor %}
+  </ul>
+</section>
+</div>
+{% endblock %}

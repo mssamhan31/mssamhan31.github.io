@@ -1,0 +1,43 @@
+# Imported Samhan Notes posts, written by import_notes.py. Newest first.
+# `image` is the picture shown on the Notes index, chosen by hand from the post.
+- slug: pengalaman-mengikuti-program-sakura-science-plan-ke-jepang
+  title: Pengalaman Mengikuti Program Sakura Science Plan ke Jepang
+  date: '2020-07-06'
+  summary: What the Sakura Science Plan exchange at Osaka University was like, from
+    the application to the days in Japan.
+  comments: 0
+  words: 1589
+  image: img01-83923468-168121541298686-425233594336645.webp
+- slug: pengalaman-research-internship-di-kaist-korea-selatan
+  title: Pengalaman Research Internship di KAIST, Korea Selatan
+  date: '2020-04-12'
+  summary: Three months as a research intern in the physics department at KAIST in
+    2019, from the ITB exchange that sends students there to the lab, the presentations
+    and what a developed country looks like up close.
+  comments: 1
+  words: 1988
+  image: img01-cover-pfj.webp
+- slug: pengalaman-memasang-panel-surya
+  title: Pengalaman Memasang Panel Surya
+  date: '2018-02-02'
+  summary: Step by step through the small PV system I designed and installed for the
+    family garden in 2018, and the questions readers asked.
+  comments: 106
+  words: 5311
+  image: img01-45442-jqus.webp
+- slug: energi-surya-sebagai-solusi-permasalahan-energi-di-indonesia
+  title: Energi Surya sebagai Solusi Permasalahan Energi di Indonesia
+  date: '2017-08-12'
+  summary: A 2017 essay on why solar energy is the practical answer to Indonesia's
+    energy problem.
+  comments: 0
+  words: 1674
+  image: img01-1-qd5s.webp
+- slug: pengalaman-merakit-drone
+  title: Pengalaman Merakit Drone
+  date: '2017-07-05'
+  summary: How I built a quadcopter from parts during a university break, what each
+    component cost, and the tuning that finally made it fly.
+  comments: 28
+  words: 3393
+  image: img02-2-drone-full-2thj.webp

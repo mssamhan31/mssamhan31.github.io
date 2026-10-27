@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="band page-header">
+  <div class="wrap">
+    <span class="kicker">Moments</span>
+    <h1>Gallery</h1>
+  </div>
+</section>
+<section class="block">
+  <div class="wrap">
+    {% if items %}
+    <div class="gallery">
+      {% for item in items %}
+      <figure data-full="{{ item.src }}">
+        <img src="{{ item.thumb }}" alt="{{ item.caption }}" loading="lazy">
+        <figcaption>{{ item.caption }}{% if item.year %} · {{ item.year }}{% endif %}</figcaption>
+      </figure>
+      {% endfor %}
+    </div>
+    <div class="lightbox" role="dialog" aria-label="Enlarged photo"><img src="" alt=""><p></p></div>
+    {% else %}
+    <p class="prose">Photos are being curated.</p>
+    {% endif %}
+  </div>
+</section>
+{% endblock %}

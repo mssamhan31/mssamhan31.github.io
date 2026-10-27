@@ -1,0 +1,29 @@
+{# Macros for the CV page. An entry is a dated block with a title; a row is one line.
+   Every element carries data-show so the view switch can hide it. Organisation names are
+   passed through the `linked` filter so known organisations become links. #}
+
+{% macro entry(when, title, org=None, place=None, extra=None, meta=None, bullets=None, show="normal") %}
+<div class="entry" data-show="{{ show }}">
+  <div class="when">{{ when }}</div>
+  <div>
+    <h3>{{ title }}</h3>
+    {% if org or place %}
+    <p class="where">{{ org|linked }}{% if org and place %}, {% endif %}{{ place or "" }}{% if extra %} · {{ extra }}{% endif %}</p>
+    {% endif %}
+    {% if meta %}<p class="meta">{{ meta }}</p>{% endif %}
+    {% if bullets %}
+    <ul>{% for bullet in bullets %}<li>{{ bullet|linked }}</li>{% endfor %}</ul>
+    {% endif %}
+  </div>
+</div>
+{% endmacro %}
+
+{% macro row(when, main, org=None, place=None, detail=None, pill=None, link=None, show="normal") %}
+<li data-show="{{ show }}">
+  <span class="when">{{ when }}</span>
+  <span>
+    {% if link %}<a href="{{ link }}">{{ main }}</a>{% else %}{{ main }}{% endif %}{% if org %}, {{ org|linked }}{% endif %}{% if place %}, {{ place }}{% endif %}{% if pill %}<span class="pill">{{ pill }}</span>{% endif %}
+    {% if detail %}<span class="detail">{{ detail|linked }}</span>{% endif %}
+  </span>
+</li>
+{% endmacro %}

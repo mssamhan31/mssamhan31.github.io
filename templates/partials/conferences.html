@@ -1,0 +1,13 @@
+{# PhD-era conference list, inserted into the PhD page where the Markdown says <!-- conferences -->. #}
+<ul class="compact">
+  {% for c in conferences %}
+  <li>
+    <span class="when">{{ c.start|month_year }}</span>
+    <span>
+      {{ c.conference }}, {{ c.city }}{% if c.country and c.country != "Australia" %}, {{ c.country }}{% endif %}
+      {% if c.title %}<span class="detail">{{ c.title }}</span>{% endif %}
+      {% if c.highlight %}<span class="detail">{{ c.highlight }}</span>{% endif %}
+    </span>
+  </li>
+  {% endfor %}
+</ul>

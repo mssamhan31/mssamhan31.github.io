@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% set title = note.title %}
+{% block main %}
+<section class="band page-header">
+  <div class="wrap">
+    <span class="kicker">Samhan Notes</span>
+    <h1>{{ note.title }}</h1>
+    <p class="lede">Originally published on Samhan Notes, {{ note.date|month_year }}, in Indonesian.{% if note.summary %} {{ note.summary }}{% endif %}</p>
+  </div>
+</section>
+<section class="longform">
+  <div class="wrap">
+    <aside class="sidebar"><nav class="toc"><a href="/notes/">← All notes</a></nav></aside>
+    <div class="content">
+      <article class="prose note-body">
+        {{ body }}
+      </article>
+      {% if comments %}
+      <section class="comments">
+        <h2>{{ comments|length }} comments</h2>
+        {% for c in comments %}
+        <div class="comment{% if c.reply %} reply{% endif %}">
+          <span class="who">{{ c.author }}</span>{% if c.owner %}<span class="pill">author</span>{% endif %}<span class="when">{{ c.date }}</span>
+          <p>{{ c.text }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endblock %}

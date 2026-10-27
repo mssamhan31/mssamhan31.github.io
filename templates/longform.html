@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="band page-header">
+  <div class="wrap">
+    {% if kicker %}<span class="kicker">{{ kicker }}</span>{% endif %}
+    <h1>{{ title }}</h1>
+    {% if lede %}<p class="lede">{{ lede }}</p>{% endif %}
+  </div>
+</section>
+<section class="longform">
+  <div class="wrap">
+    <aside class="sidebar">
+      {% block sidebar %}{% endblock %}
+      <nav class="toc" aria-label="On this page">
+        {% for item in toc %}<a href="#{{ item.id }}">{{ item.title }}</a>{% endfor %}
+      </nav>
+    </aside>
+    <div class="content">
+      {% block content %}{% endblock %}
+    </div>
+  </div>
+</section>
+{% endblock %}

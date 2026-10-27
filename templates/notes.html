@@ -1,0 +1,24 @@
+{% extends "longform.html" %}
+{% set kicker = "Samhan Notes" %}
+{% set lede = "Posts from my old Blogger site, kept in their original Indonesian with the photos and the reader comments." %}
+{% set toc = [] %}
+{% block content %}
+{% if notes %}
+<ul class="note-list">
+  {% for note in notes %}
+  <li>
+    {% if note.image %}
+    <a class="thumb" href="/notes/{{ note.slug }}/"><img src="/notes/{{ note.slug }}/images/{{ note.image }}" alt="" loading="lazy"></a>
+    {% endif %}
+    <div>
+      <h3><a href="/notes/{{ note.slug }}/">{{ note.title }}</a></h3>
+      <p>{{ note.summary }}</p>
+      <p class="note-meta">{{ note.date|month_year }} · Indonesian{% if note.comments %} · {{ note.comments }} comments{% endif %}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="prose">The posts are being imported.</p>
+{% endif %}
+{% endblock %}

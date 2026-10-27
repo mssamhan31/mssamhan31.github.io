@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="band hero">
+  <div class="wrap">
+    <div class="hero-text">
+      <h1>{{ site.full_name }}</h1>
+      <p class="headline">{{ site.headline }}</p>
+      <p class="subline">{{ site.subline }}</p>
+      <div class="btn-row">
+        <a class="btn" href="/about/">Learn more about me</a>
+        <a class="btn" href="/phd/">Learn more about my PhD</a>
+        <a class="btn secondary" href="/contact/">Reach out</a>
+      </div>
+    </div>
+    <figure class="hero-portrait">
+      <img src="/img/portrait.jpg" alt="Portrait of {{ site.full_name }}" width="1200" height="1500">
+    </figure>
+  </div>
+</section>
+
+<section class="bio">
+  <div class="wrap">
+    <span class="kicker">In short</span>
+    <div class="prose columns">
+      {{ bio }}
+    </div>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,13 @@
+# Build output and local environment
+_site/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# The CV workbook is never committed; sync_cv.py reads it from Google Drive
+*.xlsx
+
+# Working copy for Samhan to edit; not part of the site
+docs/copy-for-samhan.docx

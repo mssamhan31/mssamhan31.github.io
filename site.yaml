@@ -1,0 +1,69 @@
+# Site-wide settings read by build.py. Everything in this file is public.
+name: Samhan
+full_name: Samhan Samhan
+url: https://mssamhan31.github.io
+
+# Hero copy, Samhan's words. The headline stays pronoun-free.
+headline: >-
+  Industry PhD candidate at UNSW. Demand Forecasting at Ausgrid. Passed CFA Level III.
+subline: >-
+  Contributing to the energy transition with a unique skill set at the intersection of
+  renewable energy, data science and finance.
+
+emails:
+  - samhanmail@gmail.com
+  - m.samhan@unsw.edu.au
+  - samhan.samhan@ausgrid.com.au
+links:
+  linkedin: https://www.linkedin.com/in/mssamhan31
+  github: https://github.com/mssamhan31
+
+nav:
+  - {label: About, path: /about/}
+  - {label: PhD, path: /phd/}
+  - {label: CV, path: /cv/}
+  - {label: Notes, path: /notes/}
+  - {label: Gallery, path: /gallery/}
+  - {label: Contact, path: /contact/}
+
+# Web fonts: a serif for display, a sans for everything else. One stylesheet request.
+fonts: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap"
+
+# Organisations and projects that are linked wherever their name appears in prose (first mention
+# per page) and in CV rows. Longer names are matched first. Samhan confirms the addresses.
+org_links:
+  Ausgrid: https://www.ausgrid.com.au/
+  RACE for 2030: https://www.racefor2030.com.au/
+  NSW Decarbonisation Innovation Hub: https://www.decarbonisationhub.com.au/
+  Digital GreenTalents Award: https://www.digitalgreentalents.de/
+  University International Postgraduate Award: https://www.unsw.edu.au/research/hdr/scholarships
+  School of Photovoltaic and Renewable Energy Engineering: https://www.unsw.edu.au/engineering/our-schools/photovoltaic-and-renewable-energy-engineering
+  Collaboration on Energy and Environmental Markets: https://www.ceem.unsw.edu.au/
+  UNSW Sydney: https://www.unsw.edu.au/
+  UNSW: https://www.unsw.edu.au/
+  Institut Teknologi Bandung: https://itb.ac.id/
+  KAIST: https://www.kaist.ac.kr/en/
+  Osaka University: https://www.osaka-u.ac.jp/en
+  Indonesia Endowment Fund for Education: https://lpdp.kemenkeu.go.id/
+  LPDP: https://lpdp.kemenkeu.go.id/
+  AGL: https://www.agl.com.au/
+  McKinsey & Company: https://www.mckinsey.com/
+  CFA Institute: https://www.cfainstitute.org/
+  Databricks: https://www.databricks.com/
+  IEEE Power and Energy Society: https://ieee-pes.org/
+  IEEE PES: https://ieee-pes.org/
+  Causindy: https://causindy.org/
+  Toastmasters: https://www.toastmasters.org/
+  PyNNLF: https://mssamhan31.github.io/PyNNLF/
+  PyNRPF: https://github.com/mssamhan31/PyNRPF
+  PyNTLP: https://github.com/mssamhan31/PyNTLP
+  Solarin: https://www.instagram.com/solarin.id/
+  Ucapin: https://mssamhan31.github.io/ucapin/
+
+# CV page view switch, in display order. The page opens on the first.
+cv_views:
+  - {key: featured, label: Featured}
+  - {key: detail, label: Full detail}
+
+# Where sync_cv.py finds the workbook. A local path; the workbook itself is never committed.
+cv_source: "G:/My Drive/0 General Documents/Curriculum Vitae/Curriculum Vitae - Complete Data.xlsx"

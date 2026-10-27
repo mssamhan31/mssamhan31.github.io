@@ -1,0 +1,9 @@
+openpyxl>=3.1
+jinja2>=3.1
+markdown>=3.5
+pillow>=10
+pyyaml>=6
+beautifulsoup4>=4.12
+pytest>=8
+ruff>=0.5
+black>=24

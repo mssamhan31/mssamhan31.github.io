@@ -1,0 +1,50 @@
+# Curated photos for the Gallery page: one per event (two for Causindy), newest first.
+# Files live in static/img/gallery/ as web-sized WebP with a -480 thumbnail.
+- file: causindy-panel.webp
+  caption: On a panel at Causindy, the Conference of Australian and Indonesian Youth
+  year: 2026
+- file: causindy-cirata.webp
+  caption: Causindy delegates at the 192 MWp Cirata floating solar farm, West Java
+  year: 2026
+- file: toastmasters-area.webp
+  caption: First place, Toastmasters speech evaluation contest, Area W4, Sydney
+  year: 2026
+- file: mckinsey-cldp.webp
+  caption: Consulting Leadership Development Program, McKinsey & Company, Jakarta
+  year: 2025
+- file: new-zealand.webp
+  caption: New Zealand, around the IEEE PES APPEEC conference in Auckland
+  year: 2025
+- file: lpdp-pln.webp
+  caption: Speaking at the LPDP Community of Practice on renewable energy, PLN headquarters, Jakarta
+  year: 2024
+- file: agl-rooftop.webp
+  caption: With the AGL engineering team on a commercial rooftop
+  year: 2024
+- file: fiji.webp
+  caption: Solar energy-access project in rural Fiji with Sustainable Livelihoods in Pacific Islands
+  year: 2023
+- file: mindaro.webp
+  caption: With the Mindaro team, Sydney
+  year: 2023
+- file: moorebank-rooftop.webp
+  caption: On the roof at Moorebank Logistics Park, 60 MWp, as a solar installer
+  year: 2022
+- file: osaka-gate.webp
+  caption: At the gate of Osaka University on the Sakura Science Plan
+  year: 2020
+- file: kaist.webp
+  caption: Best international research intern, KAIST, Daejeon
+  year: 2019
+- file: kaist-entrance.webp
+  caption: At the entrance of KAIST, Daejeon, for a research internship
+  year: 2019
+- file: papua.webp
+  caption: Volunteering in remote Papua with the National Initiative for Community Empowerment
+  year: 2019
+- file: garden-solar-array.webp
+  caption: The garden PV system I designed and installed in Kotagede, Yogyakarta
+  year: 2018
+- file: drone-finished.webp
+  caption: The quadcopter I built from parts
+  year: 2017

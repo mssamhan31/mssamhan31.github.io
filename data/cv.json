@@ -1,0 +1,1462 @@
+{
+  "generated": "2026-10-27",
+  "sheets": {
+    "education": [
+      {
+        "start": "2016-08-22",
+        "end": "2020-08-05",
+        "institution": "Institut Teknologi Bandung",
+        "degree": "Bachelor of Science (Cum Laude)",
+        "highlight": "GPA 3.92/4.00; Best Graduate\nResearch intern, Quantum and Nanobio Photonics Laboratory, KAIST, South Korea; awarded Best Intern\nSakura Science Exchange Program, Osaka University, Japan\nVolunteer at the National Initiative for Community Empowerment Program in Friwen, rural Papua",
+        "major": "Physics",
+        "grade": "3.92/4.00 (Best in Batch)",
+        "city": "Bandung",
+        "country": "Indonesia",
+        "mode": "In Person",
+        "type": "Formal Education",
+        "show": "Featured"
+      },
+      {
+        "start": "2022-05-30",
+        "end": "2024-01-31",
+        "institution": "UNSW Sydney",
+        "degree": "Master of Engineering Science (with Excellence)",
+        "highlight": "Graduated with Excellence\nFully funded by the Indonesia Endowment Fund for Education (LPDP). Total value $175k+\nSydney Hoka Half Marathon (21 km) finisher\nVolunteered on a solar energy-access project in rural Fiji (Sustainable Livelihoods in Pacific Islands)",
+        "major": "Solar Energy Engineering",
+        "grade": null,
+        "city": "Sydney",
+        "country": "Australia",
+        "mode": "In Person",
+        "type": "Formal Education",
+        "show": "Featured"
+      },
+      {
+        "start": "2024-05-20",
+        "end": "ongoing",
+        "institution": "UNSW Sydney",
+        "degree": "Doctor of Philosophy",
+        "highlight": "Research: develop open-source tools to benchmark net-load forecasting models, detect reverse-power-flow sign errors, estimate the impact of new tariff structures and forecast minimum demand\nFully funded by the University International Postgraduate Award (UIPA), with top-up scholarships from Ausgrid, RACE for 2030 and the NSW Decarbonisation Innovation Hub. Total value $300k+\nThree-month research exchange in Germany as a Digital GreenTalents Award winner\nPresented at international IEEE conferences in Auckland, Wuhan and Hobart\nFirst place, Three Minute Thesis (3MT) competition, UNSW School of Photovoltaic and Renewable Energy Engineering",
+        "major": "Solar Energy Engineering",
+        "grade": null,
+        "city": "Sydney",
+        "country": "Australia",
+        "mode": "In Person",
+        "type": "Formal Education",
+        "show": "Featured"
+      },
+      {
+        "start": "2025-07-04",
+        "end": "2025-08-23",
+        "institution": "McKinsey & Company",
+        "degree": "Consulting Leadership Development Program (CLDP)",
+        "highlight": "Selected as 1 of 126 from 850+ applicants",
+        "major": null,
+        "grade": null,
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "mode": "Hybrid",
+        "type": "Short Course",
+        "show": "Featured"
+      },
+      {
+        "start": "2024-10-05",
+        "end": "2025-01-04",
+        "institution": "Institute of Indonesia Chartered Accountants (IAI)",
+        "degree": "Basic Financial Accounting",
+        "highlight": null,
+        "major": null,
+        "grade": "A",
+        "city": "Depok",
+        "country": "Indonesia",
+        "mode": "Online",
+        "type": "Short Course",
+        "show": "Detail"
+      },
+      {
+        "start": "2025-02-22",
+        "end": "2025-07-26",
+        "institution": "Institute of Indonesia Chartered Accountants (IAI)",
+        "degree": "Applied Tax (Brevet Pajak) AB",
+        "highlight": null,
+        "major": null,
+        "grade": "A",
+        "city": "Depok",
+        "country": "Indonesia",
+        "mode": "Online",
+        "type": "Short Course",
+        "show": "Detail"
+      },
+      {
+        "start": "2023-10-01",
+        "end": "2023-11-05",
+        "institution": "Rocky Mountain Institute & School of Business and Management (SBM) ITB",
+        "degree": "Corporate Renewable Energy Procurement Executive Education",
+        "highlight": null,
+        "major": null,
+        "grade": null,
+        "city": "Bandung",
+        "country": "Indonesia",
+        "mode": "Online",
+        "type": "Short Course",
+        "show": "Detail"
+      },
+      {
+        "start": "2020-01-26",
+        "end": "2020-02-01",
+        "institution": "Osaka University",
+        "degree": "Sakura Science Exchange Student",
+        "highlight": "Selected as 1 of the 6 international students fully funded by Japan Science and Technology Agency (JST)",
+        "major": "Physics",
+        "grade": null,
+        "city": "Osaka",
+        "country": "Japan",
+        "mode": "In Person",
+        "type": "Short Course",
+        "show": "Featured"
+      },
+      {
+        "start": "2019-10-10",
+        "end": "2019-12-08",
+        "institution": "KAIST",
+        "degree": "Research Internship",
+        "highlight": "Selected as 1 of the 4 international research intern. Awarded as the Best Intern",
+        "major": "Physics",
+        "grade": null,
+        "city": "Daejeon",
+        "country": "South Korea",
+        "mode": "In Person",
+        "type": "Short Course",
+        "show": "Featured"
+      },
+      {
+        "start": "2025-09-29",
+        "end": "2025-09-29",
+        "institution": "UNSW Sydney",
+        "degree": "Leadership Foundations Program",
+        "highlight": null,
+        "major": null,
+        "grade": null,
+        "city": "Sydney",
+        "country": "Australia",
+        "mode": "In Person",
+        "type": "Short Course",
+        "show": "Detail"
+      },
+      {
+        "start": "2027-05-03",
+        "end": "2027-07-30",
+        "institution": "Germany",
+        "degree": "Research exchange (Digital GreenTalents Award)",
+        "highlight": "Selected as 1 of 20 award winners from applicants from 35 countries",
+        "major": "Energy",
+        "grade": null,
+        "city": null,
+        "country": "Germany",
+        "mode": "In Person",
+        "type": "Short Course",
+        "show": "Featured"
+      }
+    ],
+    "experience": [
+      {
+        "start": "2025-01-01",
+        "end": "ongoing",
+        "company": "Ausgrid",
+        "role": "Demand Forecasting Researcher",
+        "company_description": "Australia Distribution Network Service Provider (DNSP) serving Sydney, Central Coast, and Hunter",
+        "city": "Sydney",
+        "country": "Australia",
+        "industry": "Energy",
+        "type": "Part Time",
+        "formal_role": "Demand Forecasting Researcher",
+        "note": "Part of a six-person team producing the net-demand forecasts, including rooftop solar and minimum demand, that underpin Ausgrid's ~$2.9 billion 2024–29 network capital plan serving 1.8 million customers\nDevelop models for reverse-power-flow sign-error detection across 300+ zone substations, post-model adjustment for the Solar Sharer Offer, population projection and segment clustering\nTools: Databricks, Azure DevOps, Git, machine learning (XGBoost, k-means clustering)",
+        "website": "https://www.ausgrid.com.au/",
+        "show": "Featured"
+      },
+      {
+        "start": "2023-12-01",
+        "end": "2024-05-01",
+        "company": "AGL",
+        "role": "Solar Engineer",
+        "company_description": "Australia Biggest Electricity Retailer & Biggest Solar Developer for Commercial Projects",
+        "city": "Sydney",
+        "country": "Australia",
+        "industry": "Energy",
+        "type": "Full Time",
+        "formal_role": "Graduate Project Engineer",
+        "note": "Lead engineer on a 37-site national rooftop solar rollout ($1.6 million): drawing packages, project documentation and technical queries from client and owner's engineer\nSupported delivery end to end: subcontractors, work health and safety (WHS), council and network approvals, commissioning, quality assurance (QA) and handover\nTools: AutoCAD, Helioscope, Procore, NetSuite",
+        "website": "https://www.agl.com.au/",
+        "show": "Featured"
+      },
+      {
+        "start": "2023-08-01",
+        "end": "2023-12-01",
+        "company": "AGL",
+        "role": "Graduate Solar Engineer",
+        "company_description": "Australia Biggest Electricity Retailer & Biggest Solar Developer for Commercial Projects",
+        "city": "Sydney",
+        "country": "Australia",
+        "industry": "Energy",
+        "type": "Part Time",
+        "formal_role": "Graduate Project Engineer",
+        "note": "Lead engineer on a 37-site national rooftop solar rollout ($1.6 million): drawing packages, project documentation and technical queries from client and owner's engineer\nSupported delivery end to end: subcontractors, work health and safety (WHS), council and network approvals, commissioning, quality assurance (QA) and handover\nTools: AutoCAD, Helioscope, Procore, NetSuite",
+        "website": "https://www.agl.com.au/",
+        "show": "Featured"
+      },
+      {
+        "start": "2023-02-01",
+        "end": "2023-07-01",
+        "company": "Mindaro",
+        "role": "Solar Engineer Intern",
+        "company_description": "Solar Design Consulting Company serving Solar engineering, procurement and construction (EPC)",
+        "city": "Sydney",
+        "country": "Australia",
+        "industry": "Energy",
+        "type": "Part Time",
+        "formal_role": "Engineer Intern",
+        "note": "Designed grid-connected photovoltaic (PV) systems for a solar design consultancy serving EPCs\nDeveloped project management plans, supported process improvement and ran internal side projects\nTools: PVSyst, AutoCAD, Excel",
+        "website": "https://mindaro.energy/",
+        "show": "Detail"
+      },
+      {
+        "start": "2022-07-01",
+        "end": "ongoing",
+        "company": "UNSW",
+        "role": "Casual Academic",
+        "company_description": "Global Top 20 University (QS Ranking, 2024-25)",
+        "city": "Sydney",
+        "country": "Australia",
+        "industry": "Education",
+        "type": "Part Time",
+        "formal_role": "Casual Academic (Demonstrator and Research Assistant)",
+        "note": "Demonstrator for more than ten School of Photovoltaic and Renewable Energy Engineering (SPREE) courses since 2023, including SOLA4012 Grid-Connected PV System Design, SOLA9001 Stand-Alone PV System Design and SOLA4327 Consumer Energy Resources; responsible for demonstration and laboratory classes, marking and course content development\nResearch assistant: contribute to consulting work for a Sydney distribution network service provider (DNSP), develop open-source tools and co-author papers\nTools: Scikit-learn, PyPI, PowerPoint",
+        "website": "https://www.unsw.edu.au/",
+        "show": "Featured"
+      },
+      {
+        "start": "2022-11-01",
+        "end": "2023-01-01",
+        "company": "SolarBay",
+        "role": "Solar Installer",
+        "company_description": "Solar engineering, procurement and construction (EPC) company focusing on commercial projects",
+        "city": "Moorebank",
+        "country": "Australia",
+        "industry": "Energy",
+        "type": "Full Time (Internship)",
+        "formal_role": "Trade Assistant",
+        "note": "Assisted licensed installers on a 60 MWp commercial rooftop photovoltaic (PV) system at Moorebank Logistics Park (800,000 m² of roof, the largest rooftop solar installation in the Southern Hemisphere)\nRan cables and installed cable ties, Klip-Lok clamps, cross-connector clamps, rails and splices\nTools: elevated work platform (EWP), impact driver, hand tools",
+        "website": "https://energybay.com/",
+        "show": "Detail"
+      },
+      {
+        "start": "2022-01-01",
+        "end": "2022-05-01",
+        "company": "PT Rancang Prima Sejahtera",
+        "role": "Solar Engineer",
+        "company_description": "Solar engineering, procurement and construction (EPC) company focusing on residential projects",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Energy",
+        "type": "Full Time",
+        "formal_role": "Photovoltaic Engineer",
+        "note": "Design residential photovoltaic (PV) systems (<5 kWp) in Indonesia’s capital city using Helioscope and PVSyst.\nDo site survey, developed bill of quantity, create financial analysis and proposal for potential clients.\nDevelop a spreadsheet to automate the process by inputting the survey result and component datasheets.",
+        "website": "https://www.rumahpanelsurya.com/",
+        "show": "Detail"
+      },
+      {
+        "start": "2021-08-01",
+        "end": "2022-01-01",
+        "company": "Ministry of Energy and Mineral Resources of Indonesia",
+        "role": "Project Management Staff, Gerakan Inisiatif Listrik Tenaga Surya (GERILYA)",
+        "company_description": "Indonesia's Government Ministry working in the energy sector",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Energy",
+        "type": "Part Time",
+        "formal_role": "Project Management Staff, Gerakan Inisiatif Listrik Tenaga Surya (GERILYA)",
+        "note": "Manages a solar energy course for 60 selected students nationally.\nReports directly to the project manger. Closely work with various stakeholders including industry partners, academics, and government.",
+        "website": "https://www.esdm.go.id/",
+        "show": "Detail"
+      },
+      {
+        "start": "2021-03-01",
+        "end": "2021-08-01",
+        "company": "Eduneira",
+        "role": "Co-Founder & CFO",
+        "company_description": "Edtech micro business, revenue under Rp300 million",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Education",
+        "type": "Full Time",
+        "formal_role": "Co-Founder & CFO",
+        "note": "Went bankrupt\nTutors only from ITB, Gadjah Mada University (UGM) and University of Indonesia (UI) with GPA above 3.5\nInvited guest speakers from three continents outside Asia for sharing sessions\nCo-founders based in Germany",
+        "website": "https://www.facebook.com/eduneiraorg",
+        "show": "Detail"
+      },
+      {
+        "start": "2020-11-01",
+        "end": "2021-03-01",
+        "company": "Fortia Strategic Partner",
+        "role": "Management Consultant",
+        "company_description": "Top Botique Management Consulting in Indonesia",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Consulting",
+        "type": "Full Time (Internship)",
+        "formal_role": "Research Intern",
+        "note": "Projects include a divestment of a state-owned subsidiary company, strategic planning of the biggest BPR Sharia Group in Indonesia, and strategic consulting for in the oldest local retail glasses company in Indonesia. \nAssist associates with desktop research, excel analysis, and power-point file preparation. \nInvolved in meetings with clients' board of directors and board of commissioners.",
+        "website": "https://fortiastrategy.com/",
+        "show": "Detail"
+      },
+      {
+        "start": "2020-09-01",
+        "end": "2020-11-01",
+        "company": "Zenius",
+        "role": "Project Manager",
+        "company_description": "Top Edtech Company Targeting Primary & Secondary School Students",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Education",
+        "type": "Full Time",
+        "formal_role": "Project Manager",
+        "note": "Manage educational video production of Physics Tutors and report directly to the Product Manager. \nWas promoted in less than 2 months of work.",
+        "website": "http://zenius.net/",
+        "show": "Detail"
+      },
+      {
+        "start": "2020-08-01",
+        "end": "2020-09-01",
+        "company": "Zenius",
+        "role": "Physics Tutor",
+        "company_description": "Top Edtech Company Targeting Primary & Secondary School Students",
+        "city": "Jakarta",
+        "country": "Indonesia",
+        "industry": "Education",
+        "type": "Full Time",
+        "formal_role": "Physics Tutor",
+        "note": "Produce educational videos, question and answer sets for Physics for High School Students.\nOne of the most productive tutor based on the number of videos produced per month.",
+        "website": "http://zenius.net/",
+        "show": "Detail"
+      },
+      {
+        "start": "2019-10-01",
+        "end": "2019-12-01",
+        "company": "KAIST",
+        "role": "International Research Intern",
+        "company_description": "Top University in South Korea",
+        "city": "Daejeon",
+        "country": "South Korea",
+        "industry": "Education",
+        "type": "Full Time (Internship)",
+        "formal_role": "Research Intern",
+        "note": "Do a 3-month fully funded internship, assisting a PhD student's research in beam shaping technology. \nImprove the algorithm efficiency and accuracy by combining GS algorithm and MRAF algorithm into a new procedure using Matlab. \nAwarded as the Best Research Intern.",
+        "website": "https://qnp.kaist.ac.kr/",
+        "show": "Detail"
+      },
+      {
+        "start": "2018-01-01",
+        "end": "2019-09-01",
+        "company": "Institut Teknologi Bandung",
+        "role": "Teaching Assistant",
+        "company_description": "Top University in Indonesia",
+        "city": "Bandung",
+        "country": "Indonesia",
+        "industry": "Education",
+        "type": "Part Time",
+        "formal_role": "Teaching Assistant",
+        "note": "Basic Physics Laboratory Assistant for International Students\nBasic Physics Laboratory Assistant for Domestic Students\nBasic Physics Course Tutor\nMathematical Physics Course Tutor",
+        "website": "https://itb.ac.id/",
+        "show": "Detail"
+      }
+    ],
+    "certifications": [
+      {
+        "date": "2024-07-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Applied Tax (Brevet Pajak) AB",
+        "institution": "Institute of Indonesia Chartered Accountants (IAI)",
+        "country": "Indonesia",
+        "show": "Detail"
+      },
+      {
+        "date": "2021-06-01",
+        "expiry": "2026-05-01",
+        "type": "Accounting / Finance",
+        "name": "Certified Financial Planner (CFP)",
+        "institution": "Financial Planning Standards Board",
+        "country": "Indonesia",
+        "show": "Featured"
+      },
+      {
+        "date": "2021-06-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Introduction to Financial Accounting: The Accounting Cycle",
+        "institution": "University of California, Irvine (UCI) via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2021-03-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Introduction to Finance and Accounting",
+        "institution": "Wharton School, University of Pennsylvania via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2025-04-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Passed Chartered Financial Analyst (CFA) Level 1",
+        "institution": "CFA Institute",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2021-05-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Investment Manager Representative (Wakil Manajer Investasi / WMI)",
+        "institution": "The Indonesia Capital Market Institute",
+        "country": "Indonesia",
+        "show": "Detail"
+      },
+      {
+        "date": "2026-01-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Passed Chartered Financial Analyst (CFA) Level 2",
+        "institution": "CFA Institute",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2025-10-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Certificate in Accounting, Finance, and Business",
+        "institution": "Institute of Indonesia Chartered Accountants (IAI)",
+        "country": "Indonesia",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-12-01",
+        "expiry": "Never expires",
+        "type": "Construction",
+        "name": "Gold Card, elevated work platform (EWP) and telescopic handler (TSH) operator licence",
+        "institution": "Telescopic Handler Association (TSHA)",
+        "country": "Australia",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-12-01",
+        "expiry": "Never expires",
+        "type": "Construction",
+        "name": "Provide Frist Aid",
+        "institution": "First Aid Coach Sydney",
+        "country": "Australia",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-07-01",
+        "expiry": "Never expires",
+        "type": "Construction",
+        "name": "White Card",
+        "institution": "NSW Government",
+        "country": "Australia",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-07-01",
+        "expiry": "Never expires",
+        "type": "Construction",
+        "name": "Working safely at Heights",
+        "institution": "AlertForce",
+        "country": "Australia",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-06-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "R Programming",
+        "institution": "John Hopkins Uniersity via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-09-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "Deep Learning Specialization",
+        "institution": "DeepLearning.AI via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-08-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "Machine Learning Specialization",
+        "institution": "Stanford University via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-07-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "Microsoft Azure Data Scientist Associate",
+        "institution": "Microsoft via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-05-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "IBM Data Science Professional Certificate",
+        "institution": "IBM via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-04-01",
+        "expiry": "Never expires",
+        "type": "Data Science",
+        "name": "Mathematics for Machine Learning and Data Science",
+        "institution": "DeepLearning.AI via Coursera",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2024-06-01",
+        "expiry": "2027-06-01",
+        "type": "Project Management",
+        "name": "Project Management Professional (PMP)",
+        "institution": "Project Management Institute (PMI)",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2023-01-01",
+        "expiry": "2024-05-01",
+        "type": "Solar Energy Engineering",
+        "name": "Accredited Solar Designer (Grid-Connect Design Only)",
+        "institution": "Solar Accreditation Australia",
+        "country": "Australia",
+        "show": "Featured"
+      },
+      {
+        "date": "2021-06-01",
+        "expiry": "2025-05-01",
+        "type": "Solar Energy Engineering",
+        "name": "Senior Supervisor of Solar Installation (Sertifikat Kompetensi Tenaga Teknik Ketenagalistrikan, SKTTK, Level 5)",
+        "institution": "Ministry of Energy and Mineral Resources (MEMR) of Indonesia",
+        "country": "Indonesia",
+        "show": "Detail"
+      },
+      {
+        "date": "2026-01-06",
+        "expiry": "Never expires",
+        "type": "Sustainable Development",
+        "name": "Islamic Finance for the Sustainable Development Goals",
+        "institution": "Islamic Development Bank (IsDB) & United Nations Development Programme (UNDP)",
+        "country": "Saudi Arabia",
+        "show": "Detail"
+      },
+      {
+        "date": "2026-01-06",
+        "expiry": "Never expires",
+        "type": "Sustainable Development",
+        "name": "Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs)",
+        "institution": "World Bank Group",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2026-04-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Sustainable Investing Certificate",
+        "institution": "CFA Institute",
+        "country": "USA",
+        "show": "Detail"
+      },
+      {
+        "date": "2026-08-01",
+        "expiry": "2028-08-01",
+        "type": "Data Science",
+        "name": "Databricks Data Analyst Associate",
+        "institution": "Databricks",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2026-09-01",
+        "expiry": "2028-09-01",
+        "type": "Data Science",
+        "name": "Databricks Data Engineer Professional",
+        "institution": "Databricks",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2026-10-01",
+        "expiry": "2028-10-01",
+        "type": "Data Science",
+        "name": "Databricks Machine Learning Engineer Professional",
+        "institution": "Databricks",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2026-10-01",
+        "expiry": "2027-10-01",
+        "type": "Data Science",
+        "name": "PL 300 Power BI Data Analyst Associate",
+        "institution": "Microsoft",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2026-10-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Passed Chartered Financial Analyst (CFA) Level 3",
+        "institution": "CFA Institute",
+        "country": "USA",
+        "show": "Featured"
+      },
+      {
+        "date": "2026-02-01",
+        "expiry": "Never expires",
+        "type": "Accounting / Finance",
+        "name": "Business and Finance Associate (BFA)",
+        "institution": "Institute of Indonesia Chartered Accountants (IAI)",
+        "country": "Indonesia",
+        "show": "Detail"
+      }
+    ],
+    "publications": [
+      {
+        "year": 2025,
+        "type": "Journal Article",
+        "publisher": "Energy Reports",
+        "title": "Neighbourhood-scale battery energy storage system revenue optimisation in distribution networks: Impact of price forecasts",
+        "authors": "Phoebe Dennis, Rob Passey, M. Syahman Samhan, Baran Yildiz",
+        "link": "https://www.sciencedirect.com/science/article/pii/S2352484725005827",
+        "show": "Featured"
+      },
+      {
+        "year": 2023,
+        "type": "Journal Article",
+        "publisher": "Renewable and Sustainable Energy Reviews",
+        "title": "Real-world data analysis of distributed PV and battery energy storage system curtailment in low voltage networks",
+        "authors": "Baran Yildiz, Naomi Stringer, Timothy Klymenko, M. Syahman Samhan, Greg Abramowitz, Anna Bruce, Iain MacGill, Renate Egan, Alistair B. Sproul",
+        "link": "https://www.sciencedirect.com/science/article/pii/S1364032123005531",
+        "show": "Featured"
+      },
+      {
+        "year": 2022,
+        "type": "Popular Article",
+        "publisher": "Kumparan",
+        "title": "Bukan karena Terbarukan atau Bersih, Ini Alasan PLTS akan Menggantikan PLTU",
+        "authors": "M. Syahman Samhan",
+        "link": "https://kumparan.com/samhan-m-syahman/bukan-karena-terbarukan-atau-bersih-ini-alasan-plts-akan-menggantikan-pltu-1yyF3sPdv7z",
+        "show": "Detail"
+      },
+      {
+        "year": 2025,
+        "type": "Conference Paper",
+        "publisher": "IEEE Power and Energy Society (PES) Asia-Pacific Power and Energy Engineering Conference (APPEEC) 2025",
+        "title": "Development of An Open-Source Framework to Evaluate Net Load Forecasting Models",
+        "authors": "M. Syahman Samhan, Anna Bruce, Baran Yildiz",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11382069",
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "type": "Conference Paper",
+        "publisher": "IEEE Power and Energy Society (PES) Innovative Smart Grid Technologies Asia (ISGT Asia) 2026",
+        "title": "Adaptive Quantile Flexibility: Recovering Candidate Flexible Load from Aggregate Profiles for Network Tariff Modelling",
+        "authors": "M. Syahman Samhan, Navid Haghdadi, Daniel Sim, Anna Bruce, Baran Yildiz",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "type": "Conference Paper",
+        "publisher": "IEEE Power and Energy Society (PES) Australasian Universities Power Engineering Conference (AUPEC) 2026",
+        "title": "Reverse Power Flow Sign Correction for Meter-Limited Substation Data",
+        "authors": "M. Syahman Samhan, Daniel Sim, Jaysson Guerrero Orbe, Anna Bruce, Navid Haghdadi, Baran Yildiz",
+        "link": null,
+        "show": "Featured"
+      }
+    ],
+    "conferences": [
+      {
+        "year": 2025,
+        "start": "2025-08-26",
+        "end": "2025-08-26",
+        "conference": "Industry PhD Symposium",
+        "organiser": "UNSW Australian Graduate School of Engineering (AGSE)",
+        "level": "University",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "Net Load Electricity Forecasting for Network Operation and Planning",
+        "highlight": null,
+        "link": "https://www.linkedin.com/posts/unswagse_phdlife-careersbeyondacademia-unsw-activity-7366754034671624194-FwyY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADM9UU0Bj3J52-ARfOJne4XPQItLIbxbGPo",
+        "show": "Detail"
+      },
+      {
+        "year": 2024,
+        "start": "2024-12-03",
+        "end": "2024-12-05",
+        "conference": "Asia Pacific Solar Research Conference",
+        "organiser": "Australian PV Institute (APVI)",
+        "level": "International",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Poster Presentation",
+        "title": "Net Electricity Load Forecasting: Current Status and Future Development",
+        "highlight": null,
+        "link": "https://apvi.org.au/solar-research-conference/",
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "start": "2024-11-28",
+        "end": "2024-11-29",
+        "conference": "Time Series and Forecasting Symposium",
+        "organiser": "University of Sydney",
+        "level": "International",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "Review of Net Electricity Load Forecasting : Research and Its Challenges",
+        "highlight": null,
+        "link": "https://business.sydney.edu.au/events/research/2024/tsf/symposium",
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "start": "2024-09-04",
+        "end": "2024-09-06",
+        "conference": "Indonesia International Sustainability Forum (ISF)",
+        "organiser": "Coordinating Ministry for Maritime Affairs and Investment of Indonesia",
+        "level": "International",
+        "country": "Indonesia",
+        "city": "Jakarta",
+        "mode": "Online",
+        "participation": "Oral Presentation",
+        "title": "Net Electricity Load Forecasting in Households with D-PV: A systemic review",
+        "highlight": "Selected as 1 of 26 presenters",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2024,
+        "start": "2024-07-20",
+        "end": "2024-07-21",
+        "conference": "9th Indonesian Student’s International Conference",
+        "organiser": "Indonesian Students' Association in Australia (PPIA)",
+        "level": "International",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "NET ELECTRICITY LOAD FORECASTING: HISTORY AND FUTURE DEVELOPMENT",
+        "highlight": "Awarded as the Best Presenter in Energy Track",
+        "link": "https://www.instagram.com/p/C-UwhEFSWZ1/",
+        "show": "Detail"
+      },
+      {
+        "year": 2025,
+        "start": "2025-12-02",
+        "end": "2025-12-05",
+        "conference": "IEEE Power and Energy Society (PES) Asia-Pacific Power and Energy Engineering Conference (APPEEC)",
+        "organiser": "IEEE Power and Energy Society (PES)",
+        "level": "International",
+        "country": "New Zealand",
+        "city": "Auckland",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "Development of An Open Source Framework to Evaluate Net Load Forecasting Models",
+        "highlight": "12 countries represented",
+        "link": "https://ieeexplore.ieee.org/abstract/document/11382069",
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "start": "2026-02-01",
+        "end": "2026-02-01",
+        "conference": "School of Photovoltaic and Renewable Energy Engineering (SPREE) Research Showcase",
+        "organiser": "UNSW School of Photovoltaic and Renewable Energy Engineering",
+        "level": "University",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Poster Presentation",
+        "title": "Net Load Forecasting Optimisation",
+        "highlight": null,
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2026,
+        "start": "2026-05-26",
+        "end": "2026-05-26",
+        "conference": "School of Photovoltaic and Renewable Energy Engineering (SPREE) Three Minute Thesis (3MT) Competition",
+        "organiser": "UNSW School of Photovoltaic and Renewable Energy Engineering",
+        "level": "University",
+        "country": "Australia",
+        "city": "Sydney",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "When the Grid Misunderstands Solar",
+        "highlight": "1st Place",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2026,
+        "start": "2026-10-30",
+        "end": "2026-11-01",
+        "conference": "IEEE Power and Energy Society (PES) Innovative Smart Grid Technologies (ISGT) Asia 2026",
+        "organiser": "IEEE Power and Energy Society (PES)",
+        "level": "International",
+        "country": "China",
+        "city": "Wuhan",
+        "mode": "In Person",
+        "participation": "Oral Presentation",
+        "title": "Adaptive Quantile Flexibility: Recovering Candidate Flexible Load from Aggregate Profiles for Network Tariff Modelling",
+        "highlight": "Accepted paper (ID 0436)",
+        "link": "https://attend.ieee.org/isgt-asia-2026/",
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "start": "2026-11-02",
+        "end": "2026-11-06",
+        "conference": "IEEE Power and Energy Society (PES) Australasian Universities Power Engineering Conference (AUPEC) 2026",
+        "organiser": "IEEE Power and Energy Society (PES) and University of Tasmania",
+        "level": "International",
+        "country": "Australia",
+        "city": "Hobart",
+        "mode": "In Person",
+        "participation": "Presentation",
+        "title": "Reverse Power Flow Sign Correction for Meter-Limited Substation Data",
+        "highlight": "Accepted paper (ID 34)",
+        "link": "https://attend.ieee.org/aupec-2026/",
+        "show": "Featured"
+      }
+    ],
+    "talks": [
+      {
+        "date": "2024-11-12",
+        "organiser": "Jasindo",
+        "event": "Training Renewable Energy Jasindo",
+        "level": "National",
+        "audience": "Corporate Employees",
+        "audience_size": "100-1000",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "date": "2024-05-04",
+        "organiser": "Mata Garuda",
+        "event": "Mata Garuda Talks: Renewable Energy",
+        "level": "National",
+        "audience": "Early & Mid Professionals",
+        "audience_size": "100-1000",
+        "role": "Moderator",
+        "delivery": "Online",
+        "highlight": "Speakers include Fadli Rahman (Director of Pertamina New and Renewable Energy), Eniya Dewi (Director General of EBTKE ESDM)",
+        "link": "https://www.instagram.com/matagaruda.lpdp/p/C6XkAlxvZFP/",
+        "show": "Featured"
+      },
+      {
+        "date": "2024-04-25",
+        "organiser": "Indonesia Endowment Fund for Education (LPDP) & PLN (Indonesia's state electricity company)",
+        "event": "Speaker at Indonesia Endowment Fund for Education (LPDP) Community of Practice: Renewable Energy",
+        "level": "National",
+        "audience": "Early & Mid Professionals",
+        "audience_size": "100-1000",
+        "role": "Speaker",
+        "delivery": "In person",
+        "highlight": "Held at the headquarters of PLN, Indonesia's state electricity company, Guests include Indonesia Endowment Fund for Education (LPDP) Scholarship Director & PLN executive vice president (EVP)",
+        "link": "https://lpdp.kemenkeu.go.id/en/informasi/berita/cop-renewable-energy-kolaborasi-lpdp-dan-pln-menggali-tantangan-potensi-dan-pengembangan-energi-terbarukan-di-indonesia/\nhttps://www.youtube.com/watch?v=1DH_ohyODhw&ab_channel=LPDPRI",
+        "show": "Featured"
+      },
+      {
+        "date": "2023-06-10",
+        "organiser": "Metalearn",
+        "event": "Speaker at Metalearn Seminar on Studying Abroad",
+        "level": "National",
+        "audience": "University Students",
+        "audience_size": "< 100",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "date": "2023-05-16",
+        "organiser": "Raditya Dika",
+        "event": "Raditya Dika Youtube Video on Studying in Australia",
+        "level": "National",
+        "audience": "General Public",
+        "audience_size": "> 900,000",
+        "role": "Spekaer",
+        "delivery": "In person",
+        "highlight": "900k+ viewers",
+        "link": "https://www.youtube.com/watch?v=ODvZqgcO1Vw",
+        "show": "Featured"
+      },
+      {
+        "date": "2023-04-15",
+        "organiser": "Udayana University",
+        "event": "Career Talk Society of Renewable Energy (SRE) Udayana with the theme \"Knowing More About Green Jobs\".",
+        "level": "National",
+        "audience": "University Students",
+        "audience_size": "100-1000",
+        "role": "Spekaer",
+        "delivery": "Online",
+        "highlight": "Other speakers include Aufar Satria, Founder of Akartha Kapital",
+        "link": "https://www.instagram.com/p/Cqr4TYpvpoY/?img_index=2",
+        "show": "Detail"
+      },
+      {
+        "date": "2023-02-11",
+        "organiser": "UPN",
+        "event": "Speaker at UPN Veteran Seminar on Media Role on Solar Energy Development",
+        "level": "National",
+        "audience": "University Students",
+        "audience_size": "100-1000",
+        "role": "Speaker",
+        "delivery": "In person",
+        "highlight": "Guests include Rector of UPN Veteran",
+        "link": "https://www.instagram.com/resummit_/p/CoSA2S0p142/",
+        "show": "Detail"
+      },
+      {
+        "date": "2023-01-06",
+        "organiser": "Synergy Solusi",
+        "event": "Speaker at Synergy Solusi on Energy Efficiency",
+        "level": "National",
+        "audience": "General Public",
+        "audience_size": "< 100",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": "https://www.instagram.com/p/CnBsIG3yP7c/",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-11-12",
+        "organiser": "PT Rancang Prima Sejahtera",
+        "event": "Speaker at PT Rancang Prima Sejahtera Seminar on Financial Analysis of photovoltaic (PV) Project",
+        "level": "National",
+        "audience": "General Public",
+        "audience_size": "< 100",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": "https://www.instagram.com/solarin.id/p/CkunDkUSdO9/",
+        "show": "Detail"
+      },
+      {
+        "date": "2022-11-05",
+        "organiser": "Institut Teknologi Bandung",
+        "event": "Speaker at ITB Seminar on Studying Abroad",
+        "level": "National",
+        "audience": "University Students",
+        "audience_size": "< 100",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "date": "2022-11-02",
+        "organiser": "Gunadarma University",
+        "event": "Speaker at Gunadarma University Seminar on Solar Energy Introduction",
+        "level": "National",
+        "audience": "University Students",
+        "audience_size": "< 100",
+        "role": "Speaker",
+        "delivery": "Online",
+        "highlight": null,
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "date": "2018-01-20",
+        "organiser": "Institut Teknologi Bandung",
+        "event": "Moderator at EUREKA!, a National Physics Competition and Seminar",
+        "level": "National",
+        "audience": "General Public",
+        "audience_size": "100-1000",
+        "role": "Moderator",
+        "delivery": "In person",
+        "highlight": null,
+        "link": "https://itb.ac.id/berita/seminar-eureka-itb-2018-belajar-bereksperimen-dengan-hal-sederhana/56527",
+        "show": "Detail"
+      }
+    ],
+    "awards": [
+      {
+        "year": 2015,
+        "level": "National",
+        "award": "Second Place at National Physics Olympiad, Ahmad Dahlan University",
+        "awarding_body": "University of Ahmad Dahlan",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2015,
+        "level": "Regional",
+        "award": "Regional’s Representative to Participate in Math National Science Olympiad",
+        "awarding_body": "Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2016,
+        "level": "National",
+        "award": "First Place at six national university-entrance try-outs: TONAMPTN ITB (13,599 participants) and the national university-entrance test (SBMPTN) try-outs of Pharmacy, Faculty of Economics and Business (FEB), Tektona, Komako and Gelato Gadjah Mada University (UGM)",
+        "awarding_body": "Bandung Institute of Technology and Gadjah Mada University",
+        "link": "https://web.archive.org/web/20170113073937/https://karangpraga.org/hasil-perangkingan-nasional-tonamptn-2016/",
+        "show": "Detail"
+      },
+      {
+        "year": 2017,
+        "level": "National",
+        "award": "Best Project at Young Leader of Renewable Energy Camp, Oil and Gas Club Gadjah Mada University (UGM)",
+        "awarding_body": "Gadjah Mada University",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2017,
+        "level": "National",
+        "award": "Semifinalist at National Scientific Writing Competition, Padjajaran University",
+        "awarding_body": "Padjajaran University",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2018,
+        "level": "National",
+        "award": "Second Place at Indonesian Flying Robot Contest (KRTI), Technological Development",
+        "awarding_body": "Ministry of Education, Culture, Research, and Technology of the Republic of Indonesia",
+        "link": "https://stei.itb.ac.id/en/tim-aksantara-itb-juara-2-kontes-robot-terbang-indonesia/",
+        "show": "Featured"
+      },
+      {
+        "year": 2018,
+        "level": "National",
+        "award": "The Most Inspirational Group at Renewable Energy Camp, I Care Indonesia",
+        "awarding_body": "I Care Indonesia",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2019,
+        "level": "International",
+        "award": "Best International Research Intern at KAIST, South Korea",
+        "awarding_body": "KAIST",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2020,
+        "level": "University",
+        "award": "Best Graduate at Physics Undergraduate Program at ITB, Indonesia",
+        "awarding_body": "Bandung Institute of Technology",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2020,
+        "level": "International",
+        "award": "Sakura Science Exchange Program Student at Osaka University, Japan",
+        "awarding_body": "Japan Science and Technology Agency (JST)",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2020,
+        "level": "University",
+        "award": "Dean's List for Semester 1-8 in Bachelor of Science in  Physics Program",
+        "awarding_body": "Bandung Institute of Technology",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2022,
+        "level": "National",
+        "award": "Indonesia Endowment Fund for Education (LPDP) Scholarship Awardee, full scholarship for Master's Study valued $175k+",
+        "awarding_body": "Indonesia Endowment Fund for Education",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "level": "International",
+        "award": "Best Presenter in Energy Track, Konferensi Internasional Pelajar Indonesia",
+        "awarding_body": "Indonesian Students' Association in Australia (PPIA)",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "level": "University",
+        "award": "Graduate With Excellence at Solar Energy Engineering Master Program at UNSW",
+        "awarding_body": "UNSW",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "level": "International",
+        "award": "University International Postgraduate Award Scholarship (full scholarship) Awardee for PhD Study valued $280k+",
+        "awarding_body": "UNSW Sydney",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2024,
+        "level": "International",
+        "award": "Hoka Half Marathon 21.1km Finisher in Sydney",
+        "awarding_body": "Hoka",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2025,
+        "level": "Regional",
+        "award": "1st Place at Boston Consulting Group (BCG) Round Table Case Competition in Sydney",
+        "awarding_body": "Boston Consulting Group Sydney Office",
+        "link": "https://www.instagram.com/businessoneunsw/p/DNFEb3dh4N6/",
+        "show": "Featured"
+      },
+      {
+        "year": 2025,
+        "level": "International",
+        "award": "Industry Partnership PhD Scholarship valued $30,000",
+        "awarding_body": "Ausgrid",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "level": "Regional",
+        "award": "1st Place Toastmasters PMI Sydney Speech Evaluation Contest",
+        "awarding_body": "Toastmasters International",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2026,
+        "level": "Regional",
+        "award": "1st Place Toastmasters Speech Evaluation Contest, Area W4 Sydney",
+        "awarding_body": "Toastmasters International",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2026,
+        "level": "Regional",
+        "award": "1st Place Toastmasters Speech Evaluation Contest, Waratah Division Sydney",
+        "awarding_body": "Toastmasters International",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2026,
+        "level": "University",
+        "award": "1st Place, School of Photovoltaic and Renewable Energy Engineering (SPREE) UNSW Three Minute Thesis (3MT) Competition",
+        "awarding_body": "UNSW Sydney",
+        "link": "https://www.instagram.com/businessoneunsw/p/DNFEb3dh4N6/",
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "level": "International",
+        "award": "Digital GreenTalents Award, 1 of 20 winners from applicants in 35 countries, funding a three-month research exchange in Germany in 2027",
+        "awarding_body": "German Federal Ministry of Research, Technology and Space",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "level": "International",
+        "award": "Selected for the NextGen cohort at CERAWeek 2026, Houston",
+        "awarding_body": "S&P Global CERAWeek",
+        "link": null,
+        "show": "Detail"
+      },
+      {
+        "year": 2025,
+        "level": "International",
+        "award": "Industry PhD Top Up Scholarship, valued over $25,000",
+        "awarding_body": "RACE for 2030",
+        "link": null,
+        "show": "Featured"
+      },
+      {
+        "year": 2026,
+        "level": "National",
+        "award": "Industry PhD Top Up Scholarship, valued $10,000",
+        "awarding_body": "NSW Decarbonisation Innovation Hub",
+        "link": null,
+        "show": "Featured"
+      }
+    ],
+    "volunteering": [
+      {
+        "start": 2015,
+        "end": 2016,
+        "scope": "National",
+        "organisation": "Bimbingan Antar Teman",
+        "description": "Free tutoring services from Yogyakarta Science Olympiad Team",
+        "role": "Mathematics Tutor",
+        "show": "Detail"
+      },
+      {
+        "start": 2019,
+        "end": 2019,
+        "scope": "National",
+        "organisation": "National Initiatives for Community Empowerment",
+        "description": "Volunteering activity to remote Papua",
+        "role": "Volunteer at Economic Department",
+        "show": "Featured"
+      },
+      {
+        "start": 2020,
+        "end": 2020,
+        "scope": "Regional",
+        "organisation": "Shine!",
+        "description": "Free tutoring services for Jatinangor High School Students",
+        "role": "Physics Tutor",
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "now",
+        "scope": "International",
+        "organisation": "Causindy",
+        "description": "bilateral youth organisation which provides a platform for young leaders to create a stronger bilateral relationship",
+        "role": "Program Officer",
+        "show": "Featured"
+      },
+      {
+        "start": 2018,
+        "end": 2020,
+        "scope": "University",
+        "organisation": "Physics Student Association (HIMAFI) ITB",
+        "description": "Physics Student Association at ITB",
+        "role": "Student Representative, Head of Logistics Division at July Graduation Party, Head of Liaison Officer Division at April Graduation Party, Committee Chair at Friendship Camp",
+        "show": "Detail"
+      },
+      {
+        "start": 2018,
+        "end": 2018,
+        "scope": "University",
+        "organisation": "Aksantara ITB",
+        "description": "ITB Unmanned Aerial Vehicle Team",
+        "role": "Technology Development, Propulsion PIC",
+        "show": "Detail"
+      },
+      {
+        "start": "2019-02-01",
+        "end": "2020-02-01",
+        "scope": "University",
+        "organisation": "Phiwiki ITB",
+        "description": "Student business of 47 people",
+        "role": "President",
+        "show": "Featured"
+      },
+      {
+        "start": 2024,
+        "end": 2025,
+        "scope": "University",
+        "organisation": "Arc Postgraduate Council (PGC) UNSW",
+        "description": "Postgraduate Council at UNSW",
+        "role": "International Student Officer",
+        "show": "Featured"
+      },
+      {
+        "start": "2022-10-01",
+        "end": "2023-06-01",
+        "scope": "University",
+        "organisation": "Renewable Energy Society (RESOC) UNSW",
+        "description": "Renewable Energy Society at UNSW",
+        "role": "Postgraduate Representative",
+        "show": "Featured"
+      },
+      {
+        "start": "2022-01-01",
+        "end": "now",
+        "scope": "National",
+        "organisation": "Solarin",
+        "description": "Instagram account aiming to share educative contents on Solar Energy",
+        "role": "Owner & Content Creator",
+        "show": "Detail"
+      },
+      {
+        "start": 2022,
+        "end": 2023,
+        "scope": "International",
+        "organisation": "Indonesian Students' Association in Australia (PPIA)",
+        "description": "Perhimpunan Pelajar Indonesia di Australia",
+        "role": "Co-Director, Academic Department",
+        "show": "Featured"
+      },
+      {
+        "start": "2023-12-01",
+        "end": "2024-01-01",
+        "scope": "International",
+        "organisation": "United Cup",
+        "description": "International Tennis Tournament held in Sydney by Tennis Australia",
+        "role": "Patron Service Volunteer",
+        "show": "Detail"
+      },
+      {
+        "start": "2023-08-27",
+        "end": "2023-09-10",
+        "scope": "International",
+        "organisation": "Sustainable Livelihoods in Pacific Islands",
+        "description": "Surveyed and installed solar panel systems in remote Fiji",
+        "role": "Volunteer to Remote Fiji",
+        "show": "Featured"
+      },
+      {
+        "start": "2025-01-01",
+        "end": "now",
+        "scope": "International",
+        "organisation": "Indonesian Network of Doctoral and Early Research Academics (INDERA)",
+        "description": "Indonesian Network of Doctoral and Early Research Academics",
+        "role": "Internal Team & Head of Launching Committee",
+        "show": "Detail"
+      },
+      {
+        "start": 2026,
+        "end": 2026,
+        "scope": "University",
+        "organisation": "Arc Postgraduate Council (PGC) UNSW",
+        "description": "Arc Postgraduate Council at UNSW",
+        "role": "Research Office Liaison Officer (elected)",
+        "show": "Featured"
+      }
+    ],
+    "organisations": [
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "CFA Society Sydney",
+        "description": null,
+        "role": "Candidate Member",
+        "note": null,
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "Australia Institute of Energy (AIE)",
+        "description": null,
+        "role": "Member",
+        "note": null,
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "Young Energy Professional (YEP) Sydney",
+        "description": null,
+        "role": "Member",
+        "note": null,
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "PMP Society Sydney",
+        "description": null,
+        "role": "Member",
+        "note": null,
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "Toastmaster International",
+        "description": null,
+        "role": "Member",
+        "note": null,
+        "show": "Detail"
+      },
+      {
+        "start": 2025,
+        "end": "still active",
+        "organisation": "IEEE",
+        "description": null,
+        "role": "Student Member",
+        "note": null,
+        "show": "Detail"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Indonesian",
+        "proficiency": "Native",
+        "credential": "Native",
+        "show": "Featured"
+      },
+      {
+        "language": "Javanese",
+        "proficiency": "Native",
+        "credential": "Native",
+        "show": "Featured"
+      },
+      {
+        "language": "English",
+        "proficiency": "Full professional",
+        "credential": "TOEFL iBT 108/120",
+        "show": "Featured"
+      },
+      {
+        "language": "German",
+        "proficiency": "Intermediate (B1)",
+        "credential": "Goethe B1 Zertifikat",
+        "show": "Featured"
+      },
+      {
+        "language": "French",
+        "proficiency": "Elementary, in progress",
+        "credential": null,
+        "show": "Featured"
+      },
+      {
+        "language": "Arabic",
+        "proficiency": "Elementary, in progress",
+        "credential": null,
+        "show": "Featured"
+      }
+    ]
+  }
+}
