@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "sheets": {
     "education": [
       {
@@ -882,7 +882,7 @@
         "audience_size": "100-1000",
         "role": "Moderator",
         "delivery": "Online",
-        "highlight": "Speakers include Fadli Rahman (Director of Pertamina New and Renewable Energy), Eniya Dewi (Director General of EBTKE ESDM)",
+        "highlight": "Speakers include Fadli Rahman (Director of Pertamina New and Renewable Energy), Eniya Dewi (Director General of New and Renewable Energy and Energy Conservation, Ministry of Energy and Mineral Resources)",
         "link": "https://www.instagram.com/matagaruda.lpdp/p/C6XkAlxvZFP/",
         "show": "Featured"
       },
@@ -895,8 +895,8 @@
         "audience_size": "100-1000",
         "role": "Speaker",
         "delivery": "In person",
-        "highlight": "Held at the headquarters of PLN, Indonesia's state electricity company, Guests include Indonesia Endowment Fund for Education (LPDP) Scholarship Director & PLN executive vice president (EVP)",
-        "link": "https://lpdp.kemenkeu.go.id/en/informasi/berita/cop-renewable-energy-kolaborasi-lpdp-dan-pln-menggali-tantangan-potensi-dan-pengembangan-energi-terbarukan-di-indonesia/\nhttps://www.youtube.com/watch?v=1DH_ohyODhw&ab_channel=LPDPRI",
+        "highlight": "Held at the headquarters of PLN, Indonesia's state electricity company. Speakers include Ridwan Kurnia (Director of Marketing and Business Development, PT Surya Energi Indotama), Edo Mahendra (Expert Staff for the Green Economy, Coordinating Ministry for Maritime Affairs and Investment), Buntoro Setiomulyo (Founder, PT Mega Andalan Kalasan) and Nurlely Aman (Senior Executive Vice President of Law, PLN); guests include the LPDP scholarship director",
+        "link": "https://lpdp.kemenkeu.go.id/en/informasi/berita/cop-renewable-energy-kolaborasi-lpdp-dan-pln-menggali-tantangan-potensi-dan-pengembangan-energi-terbarukan-di-indonesia/",
         "show": "Featured"
       },
       {
@@ -919,7 +919,7 @@
         "level": "National",
         "audience": "General Public",
         "audience_size": "> 900,000",
-        "role": "Spekaer",
+        "role": "Speaker",
         "delivery": "In person",
         "highlight": "900k+ viewers",
         "link": "https://www.youtube.com/watch?v=ODvZqgcO1Vw",
@@ -932,7 +932,7 @@
         "level": "National",
         "audience": "University Students",
         "audience_size": "100-1000",
-        "role": "Spekaer",
+        "role": "Speaker",
         "delivery": "Online",
         "highlight": "Other speakers include Aufar Satria, Founder of Akartha Kapital",
         "link": "https://www.instagram.com/p/Cqr4TYpvpoY/?img_index=2",
@@ -941,7 +941,7 @@
       {
         "date": "2023-02-11",
         "organiser": "UPN",
-        "event": "Speaker at UPN Veteran Seminar on Media Role on Solar Energy Development",
+        "event": "Speaker at Universitas Pembangunan Nasional (UPN) Veteran Seminar on Media Role on Solar Energy Development",
         "level": "National",
         "audience": "University Students",
         "audience_size": "100-1000",
@@ -1015,6 +1015,19 @@
         "highlight": null,
         "link": "https://itb.ac.id/berita/seminar-eureka-itb-2018-belajar-bereksperimen-dengan-hal-sederhana/56527",
         "show": "Detail"
+      },
+      {
+        "date": "2026-06-08",
+        "organiser": "Conference of Australian and Indonesian Youth (Causindy)",
+        "event": "Panel: Overcoming Barriers to Renewable Energy Transition, Bandung",
+        "level": "International",
+        "audience": null,
+        "audience_size": null,
+        "role": "Moderator",
+        "delivery": "In person",
+        "highlight": "Speakers include Dr Filda Citra Yusgiantoro (Chairperson, Purnomo Yusgiantoro Center), Dr Ahmad Agus Setiawan (Assistant Professor, Department of Engineering Physics, Gadjah Mada University), Chris Bloomfield (Counsellor for Climate Change and Energy, Australian Embassy Indonesia) and Fendi Liem (Founder and CEO, Sedayu Solar)",
+        "link": "https://www.causindy.org/bandung-2026/",
+        "show": "Featured"
       }
     ],
     "awards": [
@@ -1259,7 +1272,7 @@
         "start": 2025,
         "end": "now",
         "scope": "International",
-        "organisation": "Causindy",
+        "organisation": "Conference of Australian and Indonesian Youth (Causindy)",
         "description": "bilateral youth organisation which provides a platform for young leaders to create a stronger bilateral relationship",
         "role": "Program Officer",
         "show": "Featured"
