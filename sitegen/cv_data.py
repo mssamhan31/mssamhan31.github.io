@@ -1,6 +1,6 @@
 """Load data/cv.json and apply the CV page's grouping, merging and sorting rules.
 
-Each public function returns plain dicts ready for a template. The rules mirror the plan:
+Each public function returns plain dicts ready for a template. The rules:
 formal and short-course education are split; consecutive experience rows at the same
 company in the same role are merged into one entry with bullets; certifications are grouped
 in Samhan's order; every list is newest first; every row carries a `show` level (featured or

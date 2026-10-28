@@ -9,5 +9,5 @@ __pycache__/
 # The CV workbook is never committed; sync_cv.py reads it from Google Drive
 *.xlsx
 
-# Working copy for Samhan to edit; not part of the site
-docs/copy-for-samhan.docx
+# Planning notes, review notes and the Word copy stay on this machine; not part of the public site
+docs/
