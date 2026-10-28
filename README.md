@@ -33,8 +33,10 @@ pytest; ruff check .; black --check .
 | Home, About, PhD, Contact prose | Edit the Markdown in `content/`. Level-2 headings become the side navigation. A line `<!-- projects -->` or `<!-- conferences -->` is replaced by a generated block. |
 | Pet-project cards | `content/projects.yaml` |
 | Gallery | Put web-sized images in `static/img/gallery/` and list them in `content/gallery.yaml` |
-| Blog posts | Save the Blogger page as a complete web page into the source folder named in `import_notes.py`, run `python import_notes.py` |
-| Headline, emails, links, nav, proof strip | `site.yaml` |
+| Blog posts | Save the Blogger page as a complete web page into the source folder named in `import_notes.py`, run `python import_notes.py <part of its file name>`; then set the post's `image` in `content/notes/notes.yaml` |
+| Headline, emails, links, nav, organisations linked automatically | `site.yaml` |
+| Browser-tab and home-screen icon | `python tools/make_favicon.py <path to a serif .ttf>` redraws the three icon files in `static/` |
+| Copy for review in Word | `python tools/make_copy_doc.py` writes `docs/copy-for-samhan.docx` (git-ignored) |
 
 ## Data
 
@@ -48,7 +50,8 @@ Blogger pages; the gallery images are resized copies of photos kept outside the 
 ```
 build.py            build the site into _site/
 sync_cv.py          workbook -> data/cv.json with the privacy filter (local only)
-import_notes.py     saved Blogger pages -> content/notes/ (local, run once)
+import_notes.py     saved Blogger pages -> content/notes/ (local, one post at a time)
+tools/              make_favicon.py (icons), make_copy_doc.py (Word copy for review)
 site.yaml           public settings
 sitegen/            cv_data (rules), privacy (patterns), images (resizing), render (pages)
 templates/          Jinja2 templates and partials

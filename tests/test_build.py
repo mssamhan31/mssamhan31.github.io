@@ -46,6 +46,7 @@ def test_every_page_uses_the_short_name_and_carries_last_updated(built_site, set
         for forbidden in ("Muhammad", "Karlsruhe", "wwwproxy", "Download complete CV"):
             assert forbidden not in html, (page, forbidden)
         assert "Last updated" in html, page
+        assert 'rel="icon"' in html and 'rel="apple-touch-icon"' in html, page
         assert settings["full_name"] in html, page
 
 

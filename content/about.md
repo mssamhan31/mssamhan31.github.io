@@ -47,7 +47,7 @@ Some projects I do for fun:
 
 ## Others
 
-I speak Indonesian and Javanese natively, English and German, and I am learning French and Arabic. I ran the Sydney half marathon in 2024.
+I speak Indonesian and Javanese natively, English and German, and I am learning French and Arabic. I ran the Sydney half marathon in 2024. I have three life role models: for the way I see life, [Scrooge McDuck](https://www.goodreads.com/en/book/show/5309.The_Life_and_Times_of_Scrooge_McDuck); as an engineer, [Henry Ford](https://www.goodreads.com/en/book/show/1122054.My_Life_And_Work); and as an aspiring entrepreneur, [Phil Knight](https://www.goodreads.com/en/book/show/27220736-shoe-dog). Their biographies are my favourites of all time, and a lot of my values are highly influenced by those three books.
 
 <div class="btn-row">
   <a class="btn" href="/cv/">Full CV</a>
